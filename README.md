@@ -1,2 +1,2 @@
 # Personal Site
-Visit lamim.me 
+https://lamim.me/
